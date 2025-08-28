@@ -3,7 +3,7 @@
 
 # 📌 **Supermarket Bill Generator – README.md**
 
-```markdown
+markdown
 # 🛒 Supermarket Bill Generator
 
 A simple yet powerful **Python application** that generates supermarket bills with ease.  
@@ -46,27 +46,26 @@ git clone https://github.com/Navgarg30/SUPERMARKET-BILL-GENERATOR-.git
 cd SUPERMARKET-BILL-GENERATOR-
 pip install -r requirements.txt
 python supermarket.py
+```
 📂 Project Structure
 pgsql
-Copy code
+```
 /
 ├── supermarket.py       – Main script / entry point
 ├── login_page.py        – Optional login/authentication
 ├── database.db          – Local database (if SQLite)
 ├── requirements.txt     – Python dependencies
 └── README.md            – This file
+```
 🧪 Testing
-bash
-Copy code
+```bash
 python -m unittest
+```
+
 🤝 Contributing
 Fork the repo
-
 Create a feature branch → feature/my-feature
-
 Commit changes → git commit -m "Add feature"
-
 Push branch → git push origin feature/my-feature
-
 Open a Pull Request
 
