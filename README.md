@@ -1,9 +1,5 @@
 
 ---
-
-# 📌 **Supermarket Bill Generator – README.md**
-
-markdown
 # 🛒 Supermarket Bill Generator
 
 A simple yet powerful **Python application** that generates supermarket bills with ease.  
